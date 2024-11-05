@@ -1,4 +1,5 @@
 **DNA to Protein Translation Script**
+
 This Python script generates random DNA sequences, translates them to protein sequences based on the standard genetic code, and saves them in a FASTA file format. The code prints each DNA sequence along with its translated protein sequence to the console and writes these sequences to a .fasta file in the current working directory.
 
 
